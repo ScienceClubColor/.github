@@ -1,1 +1,1 @@
-# .github
+# Witajcie na profilu KN Kolor!
